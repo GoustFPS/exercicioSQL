@@ -1,8 +1,8 @@
 -- Criando a base de dados
-CREATE DATABASE MinhaBaseDeDados;
+CREATE DATABASE exercicio1;
 
 -- Selecionando a base de dados
-USE MinhaBaseDeDados;
+USE exercicio1;
 
 -- Criando tabela "Clientes"
 CREATE TABLE Clientes (
